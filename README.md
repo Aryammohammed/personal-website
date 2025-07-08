@@ -4,8 +4,13 @@ A simple personal website .
 Simple personal site showcasing my background in computer engineering, passion for hardware systems, and exploration of software development — all styled with a sleek black theme.
 
 📁 Files Included
-index.html → Main webpage structure
+index.html → Main homepage of the website .
 
+about.html → “About Me” page .
+
+Screenshot1.png → Preview of the homepage .
+
+Screenshot2.png → Screenshot of the "About Me" page .
 
 🚀 How to View
 You can open the website by simply launching index.html in your browser.
